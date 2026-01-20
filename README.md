@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde **2023**   <br>📚 Atualmente aprendendo **React, C#, .NET e SQL Server**  <br>🎯 Objetivos: **Dominar desenvolvimento Full Stack e contribuir para projetos da minha empresa**  <br>🎲 Curiosidade: **Resolver problemas complexos tomando café ☕ é a minha praia**</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente aprendendo React, C#, .NET e SQL Server  <br>🎯 Objetivos: Dominar desenvolvimento Full Stack e contribuir para projetos da minha empresa <br>🎲 Curiosidade: Resolver problemas complexos tomando café ☕ é a minha praia</p>
 
 ###
 
